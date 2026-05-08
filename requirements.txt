@@ -1,0 +1,8 @@
+streamlit==1.56.0
+tensorflow==2.16.2
+numpy<2.0
+pillow
+scikit-learn
+xgboost
+pandas
+opencv-python-headless<4.11
